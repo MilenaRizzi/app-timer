@@ -6,7 +6,7 @@
 
 App Timer é uma aplicação front-end desenvolvida durante o módulo 2 da trilha ReactJS do curso **Rocketseat** 
 
-A aplicação consiste em permitir ao usuário realizar pomodoros de seus projetos enquanto realiza uma tarefa. O usuário tem a possibilidade de cadastrar sua tarefa e o tempo necessário para realiza-la e após isso a contagem do cronometro é inicializada.
+A aplicação consiste em permitir ao usuário realizar pomodoros de seus projetos enquanto realiza uma tarefa. O usuário tem a possibilidade de cadastrar sua tarefa e o tempo necessário para realiza-la e após isso a contagem do cronometro é inicializada. Além disso, a aplicação possui uma página de histórico, para que o usuário possa ver suas tarefas cadastradas e o status delas, se foram finalizadas ou interrompidas.
 
 ## Layout web
 ![web 1](https://github.com/MilenaRizzi/app-timer/assets/116590085/3d80550e-43ca-439f-8246-34e32fc00a4b)
